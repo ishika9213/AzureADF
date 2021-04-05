@@ -1,0 +1,9 @@
+{
+	"name": "ishikaADF",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "279a032a-e186-40ec-a523-52f9c1b18302",
+		"tenantId": "4b0804e2-c013-443a-a907-9a4999c5a87c"
+	}
+}
